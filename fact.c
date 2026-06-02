@@ -15,6 +15,6 @@
         printf("Factorial of %d = %llu", n, fact);
     }
 
-   // return 0;
+   return 0;
 }
 
