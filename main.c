@@ -1,6 +1,11 @@
-#include<stdio.h>
-int main() {
+#include <stdio.h>
 
-         biggest();
-         factorial();
+void biggest(void);
+void factorial(void);
+
+int main(void)
+{
+    biggest();
+    factorial();
+    return 0;
 }
